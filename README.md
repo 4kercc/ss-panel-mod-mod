@@ -1,5 +1,7 @@
 # 前言
-w暗刷down的一个ss-panel魔改版二次开发版，感谢前辈的无私奉献先。
+不知道在哪down的一个ss-panel魔改版二次开发版，感谢前辈的无私奉献先。
+
+以下教程当前只是整合了 [**ss-panel-v3-mod-with-f2fpay**](https://github.com/zyl6698/ss-panel-v3-mod-with-f2fpay/wiki) 的文档，方便我自己学习而已，如有需要还是建议你去那看看。
 
 # 前端搭建
 ## 配置环境
